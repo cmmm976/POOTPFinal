@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=nom\ poids
+comment0.target=Animal(java.lang.String,\ double)
+comment0.text=\n\ Constructeurs\ d'objets\ Animal,\ prend\ son\ nom\ et\ son\ poids\ en\ arguments\n
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment1.text=\n\ accesseur\ du\ nom\ de\ l'animal\n\ @return\ \ nom\ \ \ \ \ le\ nom\ de\ l'animal\n
+comment2.params=
+comment2.target=double\ getPoids()
+comment2.text=\n\ accesseur\ du\ poids\ de\ l'animal\n\ @return\ \ poids\ \ \ \ le\ poids\ de\ l'animal\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=double\ coutNourriture()
+numComments=5

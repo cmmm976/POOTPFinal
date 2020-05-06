@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nom\ poids\ h
+comment0.target=Koala(java.lang.String,\ int,\ int)
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ Koala\n
+comment1.params=
+comment1.target=double\ coutNourriture()
+comment1.text=\n\ retourne\ le\ co\u00FBt\ en\ nourriture\ par\ jour\ d'un\ koala\n\ @return\ \ c\ \ \ un\ co\u00FBt\ en\ nourriture\ par\ jour\ incroyable\ \!\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
